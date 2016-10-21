@@ -17,7 +17,11 @@
 		B08EC1C61DB4757B007B4E99 /* CALayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B08EC1C51DB4757B007B4E99 /* CALayerUITests.m */; };
 		B08EC1D51DB4AEB3007B4E99 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B08EC1D41DB4AEB3007B4E99 /* TableViewController.m */; };
 		B08EC1D71DB4C39A007B4E99 /* ali.png in Resources */ = {isa = PBXBuildFile; fileRef = B08EC1D61DB4C39A007B4E99 /* ali.png */; };
+<<<<<<< HEAD
 		B093C6D11DB9BCB4000834AE /* MAN.m in Sources */ = {isa = PBXBuildFile; fileRef = B093C6D01DB9BCB4000834AE /* MAN.m */; };
+=======
+		B093C6CE1DB9B930000834AE /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = B093C6CD1DB9B930000834AE /* Dog.m */; };
+>>>>>>> c26bf0dbb8168bda20a00f4641ecccd6194536b4
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,8 +61,13 @@
 		B08EC1D31DB4AEB3007B4E99 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		B08EC1D41DB4AEB3007B4E99 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		B08EC1D61DB4C39A007B4E99 /* ali.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ali.png; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		B093C6CF1DB9BCB4000834AE /* MAN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MAN.h; sourceTree = "<group>"; };
 		B093C6D01DB9BCB4000834AE /* MAN.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MAN.m; sourceTree = "<group>"; };
+=======
+		B093C6CC1DB9B930000834AE /* Dog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dog.h; sourceTree = "<group>"; };
+		B093C6CD1DB9B930000834AE /* Dog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dog.m; sourceTree = "<group>"; };
+>>>>>>> c26bf0dbb8168bda20a00f4641ecccd6194536b4
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,8 +125,13 @@
 				B08EC1A71DB4757A007B4E99 /* ViewController.m */,
 				B08EC1D31DB4AEB3007B4E99 /* TableViewController.h */,
 				B08EC1D41DB4AEB3007B4E99 /* TableViewController.m */,
+<<<<<<< HEAD
 				B093C6CF1DB9BCB4000834AE /* MAN.h */,
 				B093C6D01DB9BCB4000834AE /* MAN.m */,
+=======
+				B093C6CC1DB9B930000834AE /* Dog.h */,
+				B093C6CD1DB9B930000834AE /* Dog.m */,
+>>>>>>> c26bf0dbb8168bda20a00f4641ecccd6194536b4
 				B08EC1A91DB4757A007B4E99 /* Main.storyboard */,
 				B08EC1AC1DB4757A007B4E99 /* Assets.xcassets */,
 				B08EC1AE1DB4757A007B4E99 /* LaunchScreen.storyboard */,
@@ -290,6 +304,7 @@
 				B093C6D11DB9BCB4000834AE /* MAN.m in Sources */,
 				B08EC1A81DB4757A007B4E99 /* ViewController.m in Sources */,
 				B08EC1A51DB4757A007B4E99 /* AppDelegate.m in Sources */,
+				B093C6CE1DB9B930000834AE /* Dog.m in Sources */,
 				B08EC1A21DB4757A007B4E99 /* main.m in Sources */,
 				B08EC1D51DB4AEB3007B4E99 /* TableViewController.m in Sources */,
 			);
